@@ -9,9 +9,10 @@ namespace LV1
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Pozdrav od Ivana Šitine, 4099");
-            
+        {        
+
+            Console.WriteLine("Pozdrav od Ivana Šitine");
+
         }
     }
 }
