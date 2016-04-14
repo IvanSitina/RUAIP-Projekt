@@ -10,7 +10,8 @@ namespace LV1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav od Ivana Šitine");
+            Console.WriteLine("Pozdrav od Ivana Šitine, 4099");
+            
         }
     }
 }
